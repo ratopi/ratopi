@@ -5,3 +5,5 @@
 Interested in **art, architecture, calligraphy, design** and user experience.
 
 Current personal focus on **highly available distributed systems** (Erlang/OTP), WebGUIs with elm and Cloud Native.
+
+More at https://ratopi.github.io/about.html
